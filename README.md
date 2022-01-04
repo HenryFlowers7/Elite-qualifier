@@ -1,5 +1,5 @@
 # Title
-Simple (or clever and funny?) description
+It was my version of the chatbot project, In which it would grow tired of you.
 ## Table of Contents
 - [Background](#background)
 - [Install](#install)
